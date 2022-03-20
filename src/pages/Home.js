@@ -12,7 +12,7 @@ export default function Home() {
           title="Thời trang thú cưng"
           subtitle="Giá cực rẻ chỉ từ ... VNĐ"
         >
-          <Link to="/rooms" className="btn-primary">
+          <Link to="/products" className="btn-primary">
             Sản phẩm
           </Link>
         </Banner>

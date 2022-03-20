@@ -23,7 +23,7 @@ export default class SingleRoom extends Component {
       return (
         <div className="error">
           <h3>Không có sản phẩm nào được tìm thấy</h3>
-          <Link to="/rooms" className="btn-primary">
+          <Link to="/products" className="btn-primary">
             Quay về sản phẩm
           </Link>
         </div>
@@ -46,7 +46,7 @@ export default class SingleRoom extends Component {
       <>
         <StyledHero img={mainImg || this.state.defaultBcg}>
           <Banner title={`${name} `}>
-            <Link to="/rooms" className="btn-primary">
+            <Link to="/products" className="btn-primary">
               Quay về sản phẩm
             </Link>
           </Banner>

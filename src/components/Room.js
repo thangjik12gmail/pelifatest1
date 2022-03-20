@@ -12,7 +12,7 @@ export default function Room({ room }) {
         <div className="price-top">
           <h6>{price} VNĐ</h6>
         </div>
-        <Link to={`/rooms/${slug}`} className="btn-primary room-link">
+        <Link to={`/products/${slug}`} className="btn-primary room-link">
           Chi tiết
         </Link>
       </div>

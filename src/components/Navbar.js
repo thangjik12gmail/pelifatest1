@@ -33,7 +33,7 @@ export default class Navbar extends Component {
               <Link to="/">Trang chủ</Link>
             </li>
             <li>
-              <Link to="/rooms">Sản phẩm</Link>
+              <Link to="/products">Sản phẩm</Link>
             </li>
           </ul>
         </div>
