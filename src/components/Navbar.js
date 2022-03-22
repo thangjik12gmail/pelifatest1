@@ -36,7 +36,7 @@ export default class Navbar extends Component {
               <Link to="/products">Sản phẩm</Link>
             </li>
             <li>
-              <a href="https://fb.com">Liên hệ</a>
+              <a href="https://fb.com/pelifaofficial">Liên hệ</a>
             </li>
           </ul>
         </div>
