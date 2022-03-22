@@ -7,15 +7,16 @@ import FeturedRooms from "../components/FeaturedRooms";
 export default function Home() {
   return (
     <>
+     
       <Hero>
-        <Banner
+        {/* <Banner
           title="Thời trang thú cưng"
           subtitle="Giá cực rẻ chỉ từ ... VNĐ"
         >
           <Link to="/products" className="btn-primary">
             Sản phẩm
           </Link>
-        </Banner>
+        </Banner> */}
       </Hero>
       <Services />
       <FeturedRooms />

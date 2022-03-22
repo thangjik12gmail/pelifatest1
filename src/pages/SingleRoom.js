@@ -38,6 +38,8 @@ export default class SingleRoom extends Component {
       extras,
       breakfast,
       pets,
+      material,
+      stocksize,
       images
     } = room;
     const [mainImg, ...defaultImg] = images;
@@ -47,7 +49,7 @@ export default class SingleRoom extends Component {
         <StyledHero img={mainImg || this.state.defaultBcg}>
           <Banner title={`${name} `}>
             <Link to="/products" className="btn-primary">
-              Quay về sản phẩm
+              Quay về trang sản phẩm
             </Link>
           </Banner>
         </StyledHero>
@@ -65,7 +67,11 @@ export default class SingleRoom extends Component {
             <article className="info">
               <h3>Thông tin</h3>
               <h6>Giá : {price} VNĐ</h6>
-              <h6>size : ${size} SQFT</h6>
+              <h6>Size : {stocksize}</h6>
+              <h6>Chất vải: {material}</h6>
+              <a href="https://fb.com/pelifaofficial" className="btn-primary">
+              MUA NGAY
+            </a>
               {/* <h6>
                 max capacity :{" "}
                 {capacity > 1 ? `${capacity} people` : `${capacity} person `}

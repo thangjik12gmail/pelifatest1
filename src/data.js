@@ -1,7 +1,8 @@
-import room1 from "./images/details-1.jpeg";
-import room2 from "./images/details-2.jpeg";
-import room3 from "./images/details-3.jpeg";
-import room4 from "./images/details-4.jpeg";
+import room1 from "./images/room-1.jpeg";
+import room2 from "./images/room-2.jpeg";
+import room3 from "./images/room-3.jpeg";
+import room4 from "./images/room-4.jpeg";
+import room5 from "./images/room-5.jpeg";
 import img1 from "./images/room-1.jpeg";
 import img2 from "./images/room-2.jpeg";
 import img3 from "./images/room-3.jpeg";
@@ -21,17 +22,19 @@ export default [
       id: "1"
     },
     fields: {
-      name: "quần áo chó mèo",
-      slug: "quần áo chó mèo",
-      type: "quần áo",
-      price: 100000,
+      name: "Váy hoa hướng dương",
+      slug: "Váy hoa hướng dương",
+      type: "váy đầm",
+      price: 200000,
       size: 200,
       capacity: 1,
+      material: "cotton",
+      stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
-      featured: false,
+      featured: true,
       description:
-        "Quần áo chó mèo chất liệu siêu xinh.",
+        "Váy hoa hướng dương xanh vàng",
       extras: [
         "Thông tin bổ sung",
         "Thông tin bổ sung",
@@ -45,7 +48,7 @@ export default [
         {
           fields: {
             file: {
-              url: img1
+              url: room1
             }
           }
         },
@@ -78,17 +81,19 @@ export default [
       id: "2"
     },
     fields: {
-      name: "quần áo chó mèo",
-      slug: "váy cho chó mèo",
-      type: "váy",
-      price: 100000,
+      name: "Váy cà rốt vàng",
+      slug: "Váy cà rốt vàng",
+      type: "váy đầm",
+      price: 198000,
       size: 200,
       capacity: 1,
+      material: "cotton",
+      stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
-      featured: false,
+      featured: true,
       description:
-        "Quần áo chó mèo chất liệu siêu xinh.",
+        "Váy cà rốt vàng đỏ cute.",
       extras: [
         "Thông tin bổ sung",
         "Thông tin bổ sung",
@@ -102,7 +107,7 @@ export default [
         {
           fields: {
             file: {
-              url: img2
+              url: room5
             }
           }
         },
@@ -135,15 +140,17 @@ export default [
       id: "3"
     },
     fields: {
-      name: "quần áo chó mèo",
-      slug: "váy cho chó mèo",
-      type: "váy",
+      name: "Áo sơ mi đen tuyền",
+      slug: "váy áo chó mèo",
+      type: "quần áo",
       price: 100000,
       size: 200,
       capacity: 1,
+      material: "cotton",
+      stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
-      featured: false,
+      featured: true,
       description:
         "Quần áo chó mèo chất liệu siêu xinh.",
       extras: [
@@ -159,7 +166,7 @@ export default [
         {
           fields: {
             file: {
-              url: img3
+              url: room1
             }
           }
         },
@@ -192,15 +199,17 @@ export default [
       id: "4"
     },
     fields: {
-      name: "quần áo chó mèo",
-      slug: "quần áo chó mèo",
+      name: "Áo sơ mi đen tuyền",
+      slug: "váy áo chó mèo",
       type: "quần áo",
       price: 100000,
       size: 200,
       capacity: 1,
+      material: "cotton",
+      stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
-      featured: false,
+      featured: true,
       description:
         "Quần áo chó mèo chất liệu siêu xinh.",
       extras: [
@@ -216,7 +225,7 @@ export default [
         {
           fields: {
             file: {
-              url: img4
+              url: room1
             }
           }
         },
@@ -249,15 +258,17 @@ export default [
       id: "5"
     },
     fields: {
-      name: "quần áo chó mèo",
-      slug: "quần áo chó mèo",
+      name: "Áo sơ mi đen tuyền",
+      slug: "váy áo chó mèo",
       type: "quần áo",
       price: 100000,
       size: 200,
       capacity: 1,
+      material: "cotton",
+      stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
-      featured: false,
+      featured: true,
       description:
         "Quần áo chó mèo chất liệu siêu xinh.",
       extras: [
@@ -273,7 +284,7 @@ export default [
         {
           fields: {
             file: {
-              url: img5
+              url: room1
             }
           }
         },
@@ -306,411 +317,14 @@ export default [
       id: "6"
     },
     fields: {
-      name: "quần áo chó mèo",
-      slug: "quần áo chó mèo",
+      name: "Áo sơ mi đen tuyền",
+      slug: "váy áo chó mèo",
       type: "quần áo",
       price: 100000,
       size: 200,
       capacity: 1,
-      pets: false,
-      breakfast: false,
-      featured: false,
-      description:
-        "Quần áo chó mèo chất liệu siêu xinh.",
-      extras: [
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung"
-      ],
-      images: [
-        {
-          fields: {
-            file: {
-              url: img6
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room2
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room3
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room4
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    sys: {
-      id: "7"
-    },
-    fields: {
-      name: "quần áo chó mèo",
-      slug: "quần áo chó mèo",
-      type: "quần áo",
-      price: 100000,
-      size: 200,
-      capacity: 1,
-      pets: false,
-      breakfast: false,
-      featured: false,
-      description:
-        "Quần áo chó mèo chất liệu siêu xinh.",
-      extras: [
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung"
-      ],
-      images: [
-        {
-          fields: {
-            file: {
-              url: img7
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room2
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room3
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room4
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    sys: {
-      id: "8"
-    },
-    fields: {
-      name: "quần áo chó mèo",
-      slug: "quần áo chó mèo",
-      type: "váy",
-      price: 100000,
-      size: 200,
-      capacity: 1,
-      pets: false,
-      breakfast: false,
-      featured: false,
-      description:
-        "Quần áo chó mèo chất liệu siêu xinh.",
-      extras: [
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung"
-      ],
-      images: [
-        {
-          fields: {
-            file: {
-              url: img8
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room2
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room3
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room4
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    sys: {
-      id: "9"
-    },
-    fields: {
-      name: "quần áo chó mèo",
-      slug: "quần áo chó mèo",
-      type: "quần áo",
-      price: 110000,
-      size: 200,
-      capacity: 1,
-      pets: false,
-      breakfast: false,
-      featured: false,
-      description:
-        "Quần áo chó mèo chất liệu siêu xinh.",
-      extras: [
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung"
-      ],
-      images: [
-        {
-          fields: {
-            file: {
-              url: img9
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room2
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room3
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room4
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    sys: {
-      id: "10"
-    },
-    fields: {
-      name: "quần áo chó mèo",
-      slug: "quần áo chó mèo",
-      type: "áo thun",
-      price: 100000,
-      size: 200,
-      capacity: 1,
-      pets: false,
-      breakfast: false,
-      featured: false,
-      description:
-        "Quần áo chó mèo chất liệu siêu xinh.",
-      extras: [
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung"
-      ],
-      images: [
-        {
-          fields: {
-            file: {
-              url: img10
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room2
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room3
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room4
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    sys: {
-      id: "11"
-    },
-    fields: {
-      name: "quần áo chó mèo",
-      slug: "quần áo chó mèo",
-      type: "quần áo",
-      price: 150000,
-      size: 200,
-      capacity: 1,
-      pets: false,
-      breakfast: false,
-      featured: true,
-      description:
-        "Quần áo chó mèo chất liệu siêu xinh.",
-      extras: [
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung"
-      ],
-      images: [
-        {
-          fields: {
-            file: {
-              url: img11
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room2
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room3
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room4
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    sys: {
-      id: "12"
-    },
-    fields: {
-      name: "quần áo chó mèo",
-      slug: "quần áo chó mèo",
-      type: "áo lưới",
-      price: 300000,
-      size: 200,
-      capacity: 1,
-      pets: false,
-      breakfast: false,
-      featured: true,
-      description:
-        "Quần áo chó mèo chất liệu siêu xinh.",
-      extras: [
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung",
-        "Thông tin bổ sung"
-      ],
-      images: [
-        {
-          fields: {
-            file: {
-              url: img12
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room2
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room3
-            }
-          }
-        },
-        {
-          fields: {
-            file: {
-              url: room4
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    sys: {
-      id: "13"
-    },
-    fields: {
-      name: "quần áo chó mèo",
-      slug: "quần áo chó mèo",
-      type: "váy vóc",
-      price: 200000,
-      size: 200,
-      capacity: 1,
+      material: "cotton",
+      stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
       featured: true,
