@@ -8,7 +8,7 @@ export default class Services extends Component {
         icon: <FaShippingFast />,
         title: "miễn phí vận chuyển",
         info:
-          "Miễn phí vận chuyển cho đơn hàng từ ... VNĐ"
+          "Miễn phí vận chuyển cho đơn hàng từ 300.000 VNĐ"
       },
       {
         icon: <FaStar />,
