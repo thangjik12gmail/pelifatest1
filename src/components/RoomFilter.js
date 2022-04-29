@@ -23,7 +23,7 @@ export default function RoomFilter({ rooms }) {
   // get unique types
   let types = getUnique(rooms, "type");
   // add all
-  types = ["all", ...types];
+  types = ["tất cả", ...types];
 
   // map to jsx
   types = types.map((item, index) => {
