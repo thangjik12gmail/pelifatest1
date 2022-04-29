@@ -68,7 +68,7 @@ export default class SingleRoom extends Component {
               <h3>Thông tin</h3>
               <h6>Giá : {price} VNĐ</h6>
               <h6>Size : {stocksize}</h6>
-              <h6>Chất vải: {material}</h6>
+              <h6>Chất liệu: {material}</h6>
               <a href="https://fb.com/pelifaofficial" className="btn-primary">
               MUA NGAY / TƯ VẤN THÊM
             </a>

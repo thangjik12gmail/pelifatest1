@@ -61,7 +61,111 @@ import room60 from "./images/room-60.jpeg";
 import room61 from "./images/room-61.jpeg";
 import room62 from "./images/room-62.jpeg";
 import room63 from "./images/room-63.jpeg";
-
+import room64 from "./images/room-64.jpeg";
+import room65 from "./images/room-65.jpeg";
+import room66 from "./images/room-66.jpeg";
+import room67 from "./images/room-67.jpeg";
+import room68 from "./images/room-68.jpeg";
+import room69 from "./images/room-69.jpeg";
+import room70 from "./images/room-70.jpeg";
+import room71 from "./images/room-71.jpeg";
+import room72 from "./images/room-72.jpeg";
+import room73 from "./images/room-73.jpeg";
+import room74 from "./images/room-74.jpeg";
+import room75 from "./images/room-75.jpeg";
+import room76 from "./images/room-76.jpeg";
+import room77 from "./images/room-77.jpeg";
+import room78 from "./images/room-78.jpeg";
+import room79 from "./images/room-79.jpeg";
+import room80 from "./images/room-80.jpeg";
+import room81 from "./images/room-81.jpeg";
+import room82 from "./images/room-82.jpeg";
+import room83 from "./images/room-83.jpeg";
+import room84 from "./images/room-84.jpeg";
+import room85 from "./images/room-85.jpeg";
+import room86 from "./images/room-86.jpeg";
+import room87 from "./images/room-87.jpeg";
+import room88 from "./images/room-88.jpeg";
+import room89 from "./images/room-89.jpeg";
+import room90 from "./images/room-90.jpeg";
+import room91 from "./images/room-91.jpeg";
+import room92 from "./images/room-92.jpeg";
+import room93 from "./images/room-93.jpeg";
+import room94 from "./images/room-94.jpeg";
+import room95 from "./images/room-95.jpeg";
+import room96 from "./images/room-96.jpeg";
+import room97 from "./images/room-97.jpeg";
+import room98 from "./images/room-98.jpeg";
+import room99 from "./images/room-99.jpeg";
+import room100 from "./images/room-100.jpeg";
+import room101 from "./images/room-101.jpeg";
+import room102 from "./images/room-102.jpeg";
+import room103 from "./images/room-103.jpeg";
+import room104 from "./images/room-104.jpeg";
+import room105 from "./images/room-105.jpeg";
+import room106 from "./images/room-106.jpeg";
+import room107 from "./images/room-107.jpeg";
+import room108 from "./images/room-108.jpeg";
+import room109 from "./images/room-109.jpeg";
+import room110 from "./images/room-110.jpeg";
+import room111 from "./images/room-111.jpeg";
+import room112 from "./images/room-112.jpeg";
+import room113 from "./images/room-113.jpeg";
+import room114 from "./images/room-114.jpeg";
+import room115 from "./images/room-115.jpeg";
+import room116 from "./images/room-116.jpeg";
+import room117 from "./images/room-117.jpeg";
+import room118 from "./images/room-118.jpeg";
+import room119 from "./images/room-119.jpeg";
+import room120 from "./images/room-120.jpeg";
+import room121 from "./images/room-121.jpeg";
+import room122 from "./images/room-122.jpeg";
+import room123 from "./images/room-123.jpeg";
+import room124 from "./images/room-124.jpeg";
+import room125 from "./images/room-125.jpeg";
+import room126 from "./images/room-126.jpeg";
+import room127 from "./images/room-127.jpeg";
+import room128 from "./images/room-128.jpeg";
+import room129 from "./images/room-129.jpeg";
+import room130 from "./images/room-130.jpeg";
+import room131 from "./images/room-131.jpeg";
+import room132 from "./images/room-132.jpeg";
+import room133 from "./images/room-133.jpeg";
+import room134 from "./images/room-134.jpeg";
+import room135 from "./images/room-135.jpeg";
+import room136 from "./images/room-136.jpeg";
+import room137 from "./images/room-137.jpeg";
+import room138 from "./images/room-138.jpeg";
+import room139 from "./images/room-139.jpeg";
+import room140 from "./images/room-140.jpeg";
+import room141 from "./images/room-141.jpeg";
+import room142 from "./images/room-142.jpeg";
+import room143 from "./images/room-143.jpeg";
+import room144 from "./images/room-144.jpeg";
+import room145 from "./images/room-145.jpeg";
+import room146 from "./images/room-146.jpeg";
+import room147 from "./images/room-147.jpeg";
+import room148 from "./images/room-148.jpeg";
+import room149 from "./images/room-149.jpeg";
+import room150 from "./images/room-150.jpeg";
+import room151 from "./images/room-151.jpeg";
+import room152 from "./images/room-152.jpeg";
+import room153 from "./images/room-153.jpeg";
+import room154 from "./images/room-154.jpeg";
+import room155 from "./images/room-155.jpeg";
+import room156 from "./images/room-156.jpeg";
+import room157 from "./images/room-157.jpeg";
+import room158 from "./images/room-158.jpeg";
+import room159 from "./images/room-159.jpeg";
+import room160 from "./images/room-160.jpeg";
+import room161 from "./images/room-161.jpeg";
+import room162 from "./images/room-162.jpeg";
+import room163 from "./images/room-163.jpeg";
+import room164 from "./images/room-164.jpeg";
+import room165 from "./images/room-165.jpeg";
+import room166 from "./images/room-166.jpeg";
+import room167 from "./images/room-167.jpeg";
+import room168 from "./images/room-168.jpeg";
 
 export default [
   {
@@ -775,77 +879,77 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "10"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
+      name: "Áo sơ mi sọc nâu tay ngắn thoáng mát",
+      slug: "Áo sơ mi sọc nâu tay ngắn thoáng mát",
       type: "sơ mi",
-      price: 71900,
+      price: 60900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
+      material: "Vải kate",
       stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Sơ mi sọc nâu tay ngắn thoáng mát dành cho các Boss mặc trong những ngày hè nắng nóng.",
       extras: [
         "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
         "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
+        "Lật mặt trong của đồ ra ngoài trước khi xử lý",
         "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        "Khi phơi, nhớ lộn trái sản phẩm và chọn nơi thoáng khí có nhiều gió, tránh ánh nắng trực tiếp chiếu vào",
+        "Không nên sử dụng các chất tẩy rửa mạnh để giặt áo, cũng như không nên đổ trực tiếp vào quần áo.",
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room64
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room65
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room66
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room67
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room68
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room69
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room70
             }
           }
         }
@@ -854,77 +958,77 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "11"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
+      name: "Áo sơ mi sọc in hình ngộ nghĩnh",
+      slug: "Áo sơ mi sọc in hình ngộ nghĩnh",
       type: "sơ mi",
-      price: 71900,
+      price: 57900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
+      material: "Vải poly",
       stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Áo sơ mi phong cách trẻ trung in hình ngộ nghĩnh dành cho các Boss.",
       extras: [
         "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
         "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
+        "Có thể giặt bằng tay hay máy đều được. Khi giặt có thể dùng thêm nước xả cho mềm vải",
         "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        "Không nên dùng nước quá nóng để giặt",
+        "Không cần là ủi sau khi giặt. Nếu cần thiết, bạn chỉ nên là ủi ở nhiệt độ thấp",
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room71
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room72
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room73
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room74
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room75
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room76
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room77
             }
           }
         }
@@ -933,77 +1037,77 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "12"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
+      name: "Áo sơ mi caro xanh dương tay ngắn",
+      slug: "Áo sơ mi caro xanh dương tay ngắn",
       type: "sơ mi",
-      price: 71900,
+      price: 58900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
+      material: "Vải kate",
       stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Áo sơ mi bảnh bao, phong cách công sở cho cún và mèo của Sen. Sơ mi tay ngắn linh hoạt trong chuyển động cho các Boss..",
       extras: [
         "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
         "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
+        "Lật mặt trong của đồ ra ngoài trước khi xử lý",
         "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        "Khi phơi, nhớ lộn trái sản phẩm và chọn nơi thoáng khí có nhiều gió, tránh ánh nắng trực tiếp chiếu vào",
+        "Không nên sử dụng các chất tẩy rửa mạnh để giặt áo, cũng như không nên đổ trực tiếp vào quần áo",
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room78
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room79
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room80
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room81
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room82
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room83
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room84
             }
           }
         }
@@ -1012,77 +1116,77 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "13"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
+      name: "Áo sơ mi sọc vàng tay ngắn",
+      slug: "Áo sơ mi sọc vàng tay ngắn",
       type: "sơ mi",
-      price: 71900,
+      price: 58900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
+      material: "Vải kate",
       stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Áo sơ mi bảnh bao, phong cách công sở cho cún và mèo của Sen. Sơ mi tay ngắn linh hoạt trong chuyển động cho các Boss..",
       extras: [
         "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
         "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
+        "Lật mặt trong của đồ ra ngoài trước khi xử lý",
         "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        "Khi phơi, nhớ lộn trái sản phẩm và chọn nơi thoáng khí có nhiều gió, tránh ánh nắng trực tiếp chiếu vào",
+        "Không nên sử dụng các chất tẩy rửa mạnh để giặt áo, cũng như không nên đổ trực tiếp vào quần áo",
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room85
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room86
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room87
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room88
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room89
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room90
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room91
             }
           }
         }
@@ -1091,77 +1195,77 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "14"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
-      type: "sơ mi",
-      price: 71900,
+      name: "Váy xếp ly nơ xanh vải mát mặc mùa hè",
+      slug: "Váy xếp ly nơ xanh vải mát mặc mùa hè",
+      type: "đầm, váy",
+      price: 58900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
+      material: "Vải satin",
       stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Váy xếp ly ren trắng tiểu thư dành cho các bé cún và mèo. Một item thích hợp cho các bé mặc đi dạo, đi chơi cùng các Sen trong hè này.",
       extras: [
         "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
         "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
+        "Tốt nhất nên được giặt khô để giữ độ bền",
         "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        "Không nên thường xuyên phơi quá lâu dưới ánh nắng mặt trời hoặc dùng bàn ủi nhiệt độ cao",
+        "Khi giặt, bạn không nên vắt mạnh",
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room92
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room93
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room94
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room95
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room96
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room97
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room98
             }
           }
         }
@@ -1170,77 +1274,77 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "15"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
-      type: "sơ mi",
-      price: 71900,
+      name: "Váy hai dây kẻ đỏ vải cotton thoáng mát",
+      slug: "Váy hai dây kẻ đỏ vải cotton thoáng mát",
+      type: "đầm, váy",
+      price: 62900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
+      material: "Cotton",
       stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Váy hai dây kẻ sọc đỏ chất vải siêu mát phù hợp mặc đi chơi/ở nhà cho các bé cún và mèo của Sen.",
       extras: [
         "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
         "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
-        "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        "Không nên giặt áo bằng máy hoặc sử dụng chất tẩy rửa mạnh",
+        "Hãy phơi áo ở những nơi thoáng mát, nắng không quá gắt",
+        "Phơi ngang áo để vải không bị giãn làm ảnh hưởng đến form dáng nhé",
+        "Không sử dụng nước xả làm mềm vải",
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room99
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room100
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room101
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room102
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room103
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room104
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room105
             }
           }
         }
@@ -1249,77 +1353,77 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "16"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
-      type: "sơ mi",
-      price: 71900,
+      name: "Váy hai dây kẻ vàng vải cotton thoáng mát",
+      slug: "Váy hai dây kẻ vàng vải cotton thoáng mát",
+      type: "đầm, váy",
+      price: 62900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
+      material: "Cotton",
       stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Váy hai dây kẻ sọc vàng chất vải siêu mát phù hợp mặc đi chơi/ở nhà cho các bé cún và mèo của Sen.",
       extras: [
         "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
         "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
-        "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        "Không nên giặt áo bằng máy hoặc sử dụng chất tẩy rửa mạnh",
+        "Hãy phơi áo ở những nơi thoáng mát, nắng không quá gắt",
+        "Phơi ngang áo để vải không bị giãn làm ảnh hưởng đến form dáng nhé",
+        "Không sử dụng nước xả làm mềm vải",
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room106
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room107
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room108
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room109
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room110
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room111
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room112
             }
           }
         }
@@ -1328,77 +1432,77 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "17"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
-      type: "sơ mi",
-      price: 71900,
+      name: "Áo thun cotton hình bọt biển",
+      slug: "Áo thun cotton hình bọt biển",
+      type: "áo thun",
+      price: 52900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
+      material: "Cotton",
       stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Item dành cho các bé cún và mèo có thể mặc đa dạng ở nhà hay đi dạo, đi chơi ở ngoài. Chất vải thoáng mát, dáng áo vừa vặn không ảnh hưởng khi Boss vận động.",
       extras: [
         "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
         "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
-        "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        "Những lần đầu chỉ nên giặt bằng nước lạnh. Những lần sau nên giặt bằng bột giặt có độ tẩy thấp",
+        "Khi giặt nhớ lộn trái sản phẩm, không giặt ngâm",
+        "Khi phơi nhớ lộn trái sản phẩm, nên phơi ở nơi có bóng râm, tránh ánh nắng gay gắt",
+        "Bảo quản ở những nơi có độ ẩm thấp",
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room113
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room114
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room115
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room116
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room117
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room118
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room119
             }
           }
         }
@@ -1407,77 +1511,77 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "18"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
-      type: "sơ mi",
-      price: 71900,
+      name: "Áo thun cotton hình nhím",
+      slug: "Áo thun cotton hình nhím",
+      type: "áo thun",
+      price: 53900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
+      material: "Cotton",
       stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Item dành cho các bé cún và mèo có thể mặc đa dạng ở nhà hay đi dạo, đi chơi ở ngoài. Chất vải thoáng mát, dáng áo vừa vặn không ảnh hưởng khi Boss vận động.",
       extras: [
         "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
         "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
-        "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        "Những lần đầu chỉ nên giặt bằng nước lạnh. Những lần sau nên giặt bằng bột giặt có độ tẩy thấp",
+        "Khi giặt nhớ lộn trái sản phẩm, không giặt ngâm",
+        "Khi phơi nhớ lộn trái sản phẩm, nên phơi ở nơi có bóng râm, tránh ánh nắng gay gắt",
+        "Bảo quản ở những nơi có độ ẩm thấp",
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room120
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room121
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room122
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room123
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room124
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room125
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room126
             }
           }
         }
@@ -1486,77 +1590,77 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "19"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
-      type: "sơ mi",
-      price: 71900,
+      name: "Áo lưới thể thao mùa hè hình sao biển",
+      slug: "Áo lưới thể thao mùa hè hình sao biển",
+      type: "áo lưới",
+      price: 43900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
+      material: "Vải lưới",
       stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Dành cho các bé cún và mèo nhiều lông, áo lưới thể thao siêu mát mặc trong những ngày hè nắng nóng. Vải lưới giúp Boss không cảm thấy bí bách hay khó chịu khi vận động trong cả ngày dài.",
       extras: [
         "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
         "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
+        "Giặt nhẹ tay, khuyên giặt ở nhiệt độ thường tức nước mát",
         "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        "Tránh phơi các sản phẩm dưới ánh nắng quá lâu, đặc biệt khi trời có nhiệt độ quá cao",
+        "Hạn chế dùng bàn ủi để bảo vệ quần áo được lâu dài hơn",
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room127
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room128
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room129
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room130
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room131
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room132
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room133
             }
           }
         }
@@ -1565,77 +1669,77 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "20"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
-      type: "sơ mi",
-      price: 71900,
+      name: "Áo lưới thể thao mùa hè màu đỏ cam",
+      slug: "Áo lưới thể thao mùa hè màu đỏ cam",
+      type: "áo lưới",
+      price: 43900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
+      material: "Vải lưới",
       stocksize: "XS, S, M, L, XL",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Dành cho các bé cún và mèo nhiều lông, áo lưới thể thao siêu mát mặc trong những ngày hè nắng nóng. Vải lưới giúp Boss không cảm thấy bí bách hay khó chịu khi vận động trong cả ngày dài.",
       extras: [
         "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
         "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
+        "Giặt nhẹ tay, khuyên giặt ở nhiệt độ thường tức nước mát",
         "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        "Tránh phơi các sản phẩm dưới ánh nắng quá lâu, đặc biệt khi trời có nhiệt độ quá cao",
+        "Hạn chế dùng bàn ủi để bảo vệ quần áo được lâu dài hơn",
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room134
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room135
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room136
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room137
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room138
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room139
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room140
             }
           }
         }
@@ -1644,77 +1748,72 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "21"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
-      type: "sơ mi",
-      price: 71900,
+      name: "Kính ăn chơi",
+      slug: "Kính ăn chơi",
+      type: "phụ kiện",
+      price: 36900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
-      stocksize: "XS, S, M, L, XL",
+      material: "Nhựa",
+      stocksize: "8,5 * 8,3 * 2,7cm",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Kính xu hướng thời trang, giúp cho thú cưng của bạn trở nên nổi bật hơn",
       extras: [
-        "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
-        "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
-        "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room141
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room142
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room143
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room144
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room145
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room146
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room147
             }
           }
         }
@@ -1723,77 +1822,72 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "22"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
-      type: "sơ mi",
-      price: 71900,
+      name: "Kính gọng nhỏ",
+      slug: "Kính gọng nhỏ",
+      type: "phụ kiện",
+      price: 24900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
-      stocksize: "XS, S, M, L, XL",
+      material: "Nhựa",
+      stocksize: "8 * 6,5 * 3cm",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Kính xu hướng thời trang, giúp cho thú cưng của bạn trở nên nổi bật hơn",
       extras: [
-        "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
-        "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
-        "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room148
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room149
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room150
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room151
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room152
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room153
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room154
             }
           }
         }
@@ -1802,77 +1896,72 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "23"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
-      type: "sơ mi",
-      price: 71900,
+      name: "Vòng cổ nơ",
+      slug: "Vòng cổ nơ",
+      type: "phụ kiện",
+      price: 38900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
-      stocksize: "XS, S, M, L, XL",
+      material: "Vải",
+      stocksize: "Nhiều màu",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Nơ xu hướng thời trang, giúp cho thú cưng của bạn trở nên nổi bật hơn.",
       extras: [
-        "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
-        "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
-        "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room155
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room156
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room157
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room158
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room159
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room160
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room161
             }
           }
         }
@@ -1881,77 +1970,72 @@ export default [
   },
   {
     sys: {
-      id: "1"
+      id: "24"
     },
     fields: {
-      name: "Áo sơ mi xanh họa tiết kem",
-      slug: "Áo sơ mi xanh họa tiết kem",
-      type: "sơ mi",
-      price: 71900,
+      name: "Túi đeo mini",
+      slug: "Túi đeo mini",
+      type: "phụ kiện",
+      price: 49900,
       size: 200,
       capacity: 1,
-      material: "Vải lụa",
-      stocksize: "XS, S, M, L, XL",
+      material: "Vải",
+      stocksize: "Đỏ, vàng, hồng",
       pets: false,
       breakfast: false,
       featured: false,
       description:
-        "- Sơ mi xanh họa tiết kem dành cho các bé cún và mèo mặc đi chơi/đi dạo cùng các Boss siêu đáng yêu. Chất vải lụa đảm bảo bảo thoáng mát cho Boss khi hoạt động ngoài trời.",
+        "- Túi đeo xu hướng thời trang, giúp cho thú cưng của bạn trở nên nổi bật hơn.",
       extras: [
-        "Giá trên sản phẩm là giá của size XS mỗi size nhảy thêm 4.000 VNĐ",
-        "Các Sen tham khảo bảng size hoặc chat để được Shop tư vấn chính xác nha!",
-        "Sử dụng xà phòng tắm/dầu gội để làm sạch",
-        "Giặt riêng đồ trắng, đồ màu",
-        "Giặt nhẹ tay, không vắt mạnh và tránh ngâm lâu",
-        "Không phơi dưới nắng trực tiếp, dùng bàn ủi với mặt trái sản phẩm",
+        
       ],
       images: [
         {
           fields: {
             file: {
-              url: room1
+              url: room162
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room163
             }
           }
         },
         {
           fields: {
             file: {
-              url: room3
+              url: room164
             }
           }
         },
         {
           fields: {
             file: {
-              url: room4
+              url: room165
             }
           }
         },
         {
           fields: {
             file: {
-              url: room5
+              url: room166
             }
           }
         },
         {
           fields: {
             file: {
-              url: room6
+              url: room167
             }
           }
         },
         {
           fields: {
             file: {
-              url: room7
+              url: room168
             }
           }
         }
